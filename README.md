@@ -1,4 +1,2 @@
 # Python
-Phython finger exercise
-
-Practice
+Basic Python instruction and leasson-learned.
